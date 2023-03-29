@@ -1,4 +1,4 @@
- #  :hourglass_flowing_sand: Consumindo API de :clapper: Filmes e da NASA :milky_way:
+ #  :hourglass_flowing_sand: Consumindo API de :clapper: Filmes e NASA :milky_way:
  ---
  
 * Java :hotsprings:
